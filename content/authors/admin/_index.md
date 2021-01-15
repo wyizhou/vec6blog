@@ -14,7 +14,7 @@ organizations:
   url: https://www.nosugartech.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 计算机好爱者，非计算机专业，但又一直从事计算机行业，目前从事网络情报分析和数据挖掘.
 
 # Interests to show in About widget
 interests:
@@ -58,6 +58,6 @@ email: ""
 highlight_name: false
 ---
 
-计算机好爱者，非计算机专业，但又一直从事计算机行业，目前从事情报分析和数据挖掘
+计算机好爱者，非计算机专业，但又一直从事计算机行业，目前从事网络情报分析和数据挖掘
 
 
