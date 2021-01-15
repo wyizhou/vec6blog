@@ -14,19 +14,20 @@ organizations:
   url: https://www.nosugartech.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 计算机好爱者，非计算机专业，但又一直从事计算机行业，目前从事网络情报分析和数据挖掘.
+bio: 计算机好爱者，非计算机专业，但又一直从事计算机行业，目前从事网络犯罪情报分析和数据分析.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Big Data
-- Natural Language Processing
+- 机器学习
+- 数据分析
+- 自然语言处理
+- 数学
 
 # Education to show in About widget
 education:
   courses:
-  - course: Architectural Engineering
-    institution: Chongqing University
+  - course: 建筑工程
+    institution: 重庆大学
     year: 2015
 
 # Social/Academic Networking
@@ -58,6 +59,6 @@ email: ""
 highlight_name: false
 ---
 
-计算机好爱者，非计算机专业，但又一直从事计算机行业，目前从事网络情报分析和数据挖掘
+非计算机专业的计算机好爱者，但又一直从事计算机行业，目前从事网络犯罪情报分析和数据分析，层级学过相关的网络安全和前端知识，并对计算机底层、硬件有一定的认识。
 
 
