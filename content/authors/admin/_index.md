@@ -17,13 +17,13 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-兴趣:
+interests:
 - Artificial Intelligence
 - Big Data
 - Natural Language Processing
 
 # Education to show in About widget
-教育:
+education:
   courses:
   - course: Architectural Engineering
     institution: Chongqing University

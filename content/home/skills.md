@@ -30,11 +30,11 @@ feature:
   name: Databases
 - description: 100%
   icon: js-square
-  icon_pack: fas
+  icon_pack: fab
   name: Javascript
 - description: 60%
   icon: python
-  icon_pack: fas
+  icon_pack: fab
   name: Python
 
 # Uncomment to use emoji icons.
